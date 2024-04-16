@@ -1,3 +1,8 @@
+# Preview
+
+![image](https://github.com/sobanjawaid26/task-trek-react/assets/36644823/583ed071-6dec-499e-8472-71a8a739586c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
